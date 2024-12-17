@@ -27,7 +27,7 @@ function App() {
         <p>Hello by Shubho</p>
       </div>
       <p className="read-the-docs">
-        Made by Shubhojeet Bera xfadf -2333dffadfaadffda
+        Made by Shubhojeet Bera xfadf -2333dffadfaadffda sxfasdf
       </p>
     </>
   )
