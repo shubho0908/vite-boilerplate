@@ -24,7 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
-        <p>Hello by Shubhojeet Beraaa - From Durg, CG, Full stack guy</p>
+        <p>Hello by Shubhojeet Bera - From Durg, CG, Full stack guy</p>
       </div>
       
     </>
